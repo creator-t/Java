@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huawei/array/array.iml" filepath="$PROJECT_DIR$/huawei/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huawei/huawei.iml" filepath="$PROJECT_DIR$/huawei/huawei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huawei/string/string.iml" filepath="$PROJECT_DIR$/huawei/string/string.iml" />
+    </modules>
+  </component>
+</project>
